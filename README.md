@@ -1,2 +1,19 @@
-# sean-cookbook
-这是一个微信小程序，是一个食谱，帮助你做一手好菜
+# my-simple-project
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
